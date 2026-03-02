@@ -1,2 +1,4 @@
 pyspark -Big data 
 Data analytics for business 
+SQL
+Kafca
